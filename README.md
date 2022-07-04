@@ -26,3 +26,7 @@ Node.js или Docker
 ```
 
 Откройте в браузере localhost:3000
+
+### Приложение
+
+[Todos](https://ta-todos.vercel.app/)
